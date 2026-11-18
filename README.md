@@ -1,4 +1,4 @@
-# Dolphin
+# DOLPHIN
 
 This repository contains the experiments accompanying the Dolphin paper. 
 
